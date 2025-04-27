@@ -1,0 +1,8 @@
+2025-04-27 23:17:13,592 - INFO - Starting prediction for image: images/photo_2.jpg
+2025-04-27 23:17:13,592 - INFO - Loading model weights from file.
+2025-04-27 23:17:13,594 - INFO - Model weights loaded successfully.
+2025-04-27 23:17:13,594 - INFO - Loading and preprocessing image: images/photo_2.jpg
+2025-04-27 23:17:13,853 - INFO - Image preprocessing complete.
+2025-04-27 23:17:13,854 - INFO - Prediction for the image: [[1.]]
+2025-04-27 23:17:13,854 - INFO - The image contains a cat.
+2025-04-27 23:17:18,392 - INFO - Prediction process completed.

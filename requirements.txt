@@ -1,0 +1,8 @@
+numpy
+numpy
+matplotlib
+h5py
+scipy
+pillow
+imageio
+opencv-python

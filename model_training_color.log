@@ -1,0 +1,30 @@
+2025-04-27 23:15:02,672 - INFO - Preprocessing the data.
+2025-04-27 23:15:02,672 - INFO - Loading the dataset with color images.
+2025-04-27 23:15:02,677 - INFO - Dataset loaded with color images.
+2025-04-27 23:15:02,686 - INFO - Data preprocessing complete.
+2025-04-27 23:15:02,689 - INFO - Cost after iteration 0: 0.69315
+2025-04-27 23:15:02,849 - INFO - Cost after iteration 100: 0.58451
+2025-04-27 23:15:03,016 - INFO - Cost after iteration 200: 0.46695
+2025-04-27 23:15:03,176 - INFO - Cost after iteration 300: 0.37601
+2025-04-27 23:15:03,472 - INFO - Cost after iteration 400: 0.33146
+2025-04-27 23:15:03,632 - INFO - Cost after iteration 500: 0.30327
+2025-04-27 23:15:03,787 - INFO - Cost after iteration 600: 0.27988
+2025-04-27 23:15:03,944 - INFO - Cost after iteration 700: 0.26004
+2025-04-27 23:15:04,113 - INFO - Cost after iteration 800: 0.24294
+2025-04-27 23:15:04,273 - INFO - Cost after iteration 900: 0.22800
+2025-04-27 23:15:04,432 - INFO - Cost after iteration 1000: 0.21482
+2025-04-27 23:15:04,594 - INFO - Cost after iteration 1100: 0.20308
+2025-04-27 23:15:04,745 - INFO - Cost after iteration 1200: 0.19254
+2025-04-27 23:15:04,903 - INFO - Cost after iteration 1300: 0.18303
+2025-04-27 23:15:05,061 - INFO - Cost after iteration 1400: 0.17440
+2025-04-27 23:15:05,222 - INFO - Cost after iteration 1500: 0.16652
+2025-04-27 23:15:05,378 - INFO - Cost after iteration 1600: 0.15930
+2025-04-27 23:15:05,534 - INFO - Cost after iteration 1700: 0.15267
+2025-04-27 23:15:05,695 - INFO - Cost after iteration 1800: 0.14654
+2025-04-27 23:15:05,854 - INFO - Cost after iteration 1900: 0.14087
+2025-04-27 23:15:06,014 - INFO - Train accuracy: 99.04306220095694%
+2025-04-27 23:15:06,014 - INFO - Test accuracy: 70.0%
+2025-04-27 23:15:06,018 - INFO - Weights saved!
+2025-04-27 23:15:06,026 - INFO - Prediction for the image: [[1.]]
+2025-04-27 23:15:06,027 - INFO - The image contains a cat.
+2025-04-27 23:15:15,008 - INFO - Script execution completed in 12.335589170455933 seconds.

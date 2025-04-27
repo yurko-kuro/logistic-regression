@@ -1,0 +1,30 @@
+2025-04-27 23:09:43,062 - INFO - Preprocessing the data.
+2025-04-27 23:09:43,062 - INFO - Loading the dataset and converting images to grayscale.
+2025-04-27 23:09:43,094 - INFO - Dataset loaded and converted to grayscale.
+2025-04-27 23:09:43,097 - INFO - Data preprocessing complete.
+2025-04-27 23:09:43,098 - INFO - Cost after iteration 0: 0.69315
+2025-04-27 23:09:43,159 - INFO - Cost after iteration 100: 0.59659
+2025-04-27 23:09:43,225 - INFO - Cost after iteration 200: 0.56714
+2025-04-27 23:09:43,296 - INFO - Cost after iteration 300: 0.54458
+2025-04-27 23:09:43,350 - INFO - Cost after iteration 400: 0.52561
+2025-04-27 23:09:43,406 - INFO - Cost after iteration 500: 0.50893
+2025-04-27 23:09:43,462 - INFO - Cost after iteration 600: 0.49390
+2025-04-27 23:09:43,520 - INFO - Cost after iteration 700: 0.48016
+2025-04-27 23:09:43,577 - INFO - Cost after iteration 800: 0.46745
+2025-04-27 23:09:43,631 - INFO - Cost after iteration 900: 0.45563
+2025-04-27 23:09:43,687 - INFO - Cost after iteration 1000: 0.44456
+2025-04-27 23:09:43,742 - INFO - Cost after iteration 1100: 0.43415
+2025-04-27 23:09:43,798 - INFO - Cost after iteration 1200: 0.42434
+2025-04-27 23:09:43,854 - INFO - Cost after iteration 1300: 0.41504
+2025-04-27 23:09:43,907 - INFO - Cost after iteration 1400: 0.40622
+2025-04-27 23:09:43,962 - INFO - Cost after iteration 1500: 0.39783
+2025-04-27 23:09:44,018 - INFO - Cost after iteration 1600: 0.38983
+2025-04-27 23:09:44,074 - INFO - Cost after iteration 1700: 0.38218
+2025-04-27 23:09:44,127 - INFO - Cost after iteration 1800: 0.37487
+2025-04-27 23:09:44,183 - INFO - Cost after iteration 1900: 0.36786
+2025-04-27 23:09:44,243 - INFO - Train accuracy: 89.95215311004785%
+2025-04-27 23:09:44,243 - INFO - Test accuracy: 56.0%
+2025-04-27 23:09:44,248 - INFO - Weights saved!
+2025-04-27 23:09:44,267 - INFO - Prediction for the image: [[0.]]
+2025-04-27 23:09:44,267 - INFO - The image does not contain a cat.
+2025-04-27 23:09:48,285 - INFO - Script execution completed in 5.223442792892456 seconds.
